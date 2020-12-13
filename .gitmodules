@@ -1,0 +1,4 @@
+[submodule "intpath/fastexpress"]
+	path = intpath/fastexpress
+	url = git@github.com:intpath/fastexpress.git
+	branch = main
